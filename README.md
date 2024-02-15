@@ -1,6 +1,6 @@
 # DungeonCrawl
 
-**TODO: Add description**
+Dungeon crawler game to lear Elixir and Phenix.
 
 ## Installation
 
